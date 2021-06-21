@@ -855,9 +855,9 @@ body {
   display: block;
   width: 100%;
   background: rgba(0, 0, 0, 0.5);
-  height: 40px;
   padding: 0 10px;
   transition: all 0.5s ease 0s;
+  font-size: 14px;
 }
 .img-project .thumb .name-project a {
   text-decoration: none;
@@ -865,7 +865,6 @@ body {
   font-size: 14px;
   line-height: 40px;
   font-weight: 400;
-  padding-left: 10px;
 }
 /* Footer */
 footer {
